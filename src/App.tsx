@@ -88,7 +88,7 @@ function App() {
             <a href="https://sonsanddaughters.xyz/">sonsanddaughters.xyz</a>
           </p>
           <p>
-            Source Code: <a href="https://github.com/">Github</a>
+            Source Code: <a href="https://github.com/shakanksh/mask-animation">Github</a>
           </p>
           <p>
             Connect: <a href="https://www.instagram.com/shakankshs/">Instagram</a>, <a href="https://x.com/shakanksh">X</a>,{" "}
